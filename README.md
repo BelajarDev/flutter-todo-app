@@ -1,6 +1,8 @@
 # 📱 Aplikasi To-Do Flutter
 
-![Banner Aplikasi To-Do](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&h=400&fit=crop)
+<p align="center">
+  <img src="screenshots/todo_list.png">
+</p>
 
 Aplikasi daftar tugas sederhana namun menarik yang dibangun dengan Flutter untuk membantu Anda mengelola tugas sehari-hari dengan efisien.
 
