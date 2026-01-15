@@ -16,22 +16,6 @@ Aplikasi daftar tugas sederhana namun menarik yang dibangun dengan Flutter untuk
 ✅ **Pelacakan Tanggal** - Timestamp otomatis untuk setiap tugas  
 ✅ **UI Modern** - Desain bersih dengan animasi halus  
 
-## 🎨 Pratinjau Aplikasi
-
-Berikut tampilan aplikasi:
-
-### 📋 Layar Utama To-Do
-![Layar Utama](https://via.placeholder.com/400x800/1976D2/FFFFFF?text=Layar+To-Do)
-*Antarmuka bersih dengan statistik tugas dan opsi filter*
-
-### ➕ Menambah Tugas Baru
-![Tambah Tugas](https://via.placeholder.com/400x800/4CAF50/FFFFFF?text=Tambah+Tugas+Baru)
-*Input sederhana dengan feedback instan*
-
-### ✅ Tugas yang Selesai
-![Tugas Selesai](https://via.placeholder.com/400x800/FF9800/FFFFFF?text=Tugas+Selesai)
-*Perbedaan visual untuk item yang selesai*
-
 ## 🚀 Mulai Cepat
 
 ### Persyaratan
